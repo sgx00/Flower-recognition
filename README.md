@@ -4,7 +4,7 @@ Experimentation with Few shot learning and Vision transformers
 
 ### Baseline: ResNet-50 Model
 
-To simplify the comparison of performance for all the different methods implemented, we have used a pretrained Resnet-18 Model as the baseline and downstreamed it for the classification task. All performance comparisons will be made in terms of the training and testing accuracy. 
+To simplify the comparison of performance for all the different methods implemented, we have used a pretrained Resnet-50 Model as the baseline and downstreamed it for our classification task. All performance comparisons are made in terms of the training and testing accuracy. 
 
 Accuracy and Loss plots obtained for Baseline Model
 
