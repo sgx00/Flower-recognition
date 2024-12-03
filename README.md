@@ -10,6 +10,15 @@ Accuracy and Loss plots obtained for Baseline Model
 
 <img width="648" alt="Screenshot 2024-12-03 at 9 55 32 AM" src="https://github.com/user-attachments/assets/d6f41656-9798-4fa0-acc5-f71f941a806d">
 
+### Prototypical networks with Triplet marginal loss
+
+Accuracy and Loss plots for Prototypical Triplet Loss model
+
+<img width="647" alt="Screenshot 2024-12-03 at 10 02 49 AM" src="https://github.com/user-attachments/assets/0477dd7b-775e-4f9b-aa72-837fac25c419">
+
+
+
+### Prototypical networks with Triplet Semi-Hard Loss
 
 Top results for best parameter settings for few shot learning with Prototypical networks with Triplet Semi-Hard Loss
 
