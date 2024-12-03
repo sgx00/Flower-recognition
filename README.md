@@ -20,13 +20,16 @@ Accuracy and Loss plots for Prototypical Triplet Loss model
 
 ### Prototypical networks with Triplet Semi-Hard Loss
 
-Top results for best parameter settings for few shot learning with Prototypical networks with Triplet Semi-Hard Loss
+Top results for best hyperparameter settings for few shot learning with Prototypical networks with Triplet Semi-Hard Loss
 
 <img width="668" alt="Screenshot 2024-12-03 at 9 51 39 AM" src="https://github.com/user-attachments/assets/06043b18-373f-41da-a871-1a26762cb145">
 
 K-NN Modified Prototypical Network with Triplet Semi-Hard Loss
 
-Tried different backbone models, optimizers, and hyperparameters. Using K=10, α=2, μ=1 (based on random tuning results), we noted following results: 
+Tried different backbone models, optimizers, and hyperparameters. Using K=10, α=2, μ=1 (based on random tuning results), noted following results for best hyperparameter tuning with the KNN modification: 
+
+<img width="607" alt="Screenshot 2024-12-03 at 10 04 48 AM" src="https://github.com/user-attachments/assets/1c47842d-8f69-4daa-bf29-3f14b4be45f9">
+
 
 
 
