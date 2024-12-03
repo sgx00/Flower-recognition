@@ -26,7 +26,7 @@ Top results for best hyperparameter settings for few shot learning with Prototyp
 
 K-NN Modified Prototypical Network with Triplet Semi-Hard Loss
 
-Tried different backbone models, optimizers, and hyperparameters. Using K=10, α=2, μ=1 (based on random tuning results), we noted the following set of top 4 results after hyperparameter tuning with on the KNN modified Prototypical network: 
+Tried different backbone models, optimizers, and hyperparameters. Using K=10, α=2, μ=1 (based on random tuning results), we noted the following set of top 4 results after hyperparameter tuning on the KNN modified Prototypical network: 
 
 <img width="607" alt="Screenshot 2024-12-03 at 10 04 48 AM" src="https://github.com/user-attachments/assets/1c47842d-8f69-4daa-bf29-3f14b4be45f9">
 
